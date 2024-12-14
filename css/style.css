@@ -1,0 +1,81 @@
+/* CSS Document */
+body{
+	margin:auto;
+	height:1000px;
+	width:1000px;
+}
+.banner{
+	height:200px;
+	width:1000px;
+	background:#C66;
+	background-image:url(../image/banner.gif);
+}
+
+.content{
+	height:700px;
+	width:1000px;
+	background:#0FC;
+}
+.conL{
+	height:700px;
+	width:200px;
+	background:#CF9;
+	float:left;
+}
+.conM{
+	height:700px;
+	width:600px;
+	background:#CF9;
+	float:left;
+}
+.conR{
+	height:700px;
+	width:200px;
+	background:#000;
+	float:right;
+	color:#FC0;
+}
+.footer{
+	height:50px;
+	width:1000px;
+	background:#0F3;
+	float:left;
+	color:#F3C;
+}
+.menu1 ul{
+	margin:0px;
+	padding:0px;
+}
+.menu1 ul li{
+	list-style:none;
+	float:left;
+	
+}
+.menu1 ul li a{
+	text-decoration:none;
+	padding-left:10px;
+}
+.menu1 ul li a:hover{
+	background:#F00;
+	padding:5px 10px 10px 10px;
+}
+.menu2 ul{
+	margin:0px;
+	padding:0px;
+}
+.menu2 ul li{
+	list-style:none;
+	float:left;
+	padding:0px 5px 10px 10px;
+	
+}
+.menu2 ul li a{
+	text-decoration:none;
+	padding-left:10px;
+}
+.menu2 ul li a:hover{
+	background:#F00;
+	padding:5px 10px 10px 10px;
+}
+
+
